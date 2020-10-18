@@ -8,6 +8,8 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #FF9600;
     color: #FF9600;
+    float: left;
+    width: 100%;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
@@ -99,4 +101,20 @@ p {
     overflow: auto;
     height: 100%;
     max-width: relative;
+}
+.rightbox2{
+    position: relative;
+}
+.rightbox2 div{
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+}
+.rightbox3{
+    position: relative;
+}
+.rightbox3 div{
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
 }
