@@ -7,3 +7,5 @@ I had a rough time for this one so there were many massive changes and edits tha
 * I began working towards a 3 row, 2 column system for the "about me, work, and contact me" section on the first vertical column then having the second column feature the images for the work I've done, this had many changes down the line as I struggled to make the spacing work. Eventually, I settled on a "leftbox" class and a "rightbox" class that would seperate the divs on each side and this gave semi-reliable results.
 * The images were easily the most difficult part of the project, I struggled to find a method of listing them that would keep one larger main image above a list of 4 that would all wrap neatly next to eachother but I eventually got a functional list with a transparency and cursor function to make the opacity 50% and have the curser turn into a pointer when the user hovered over an image.
 * I finished by adding an about me section, leaving out the phone number section as since I am not using the portfolio yet I would prefer to update it as I went with modern info when that time comes.
+# link to deployed website
+https://maverickwilkinson.github.io/Portfolio-HW/
